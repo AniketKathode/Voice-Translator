@@ -1,5 +1,6 @@
 Flask
-speechrecognition
-googletrans==3.1.0a0
+googletrans==4.0.0rc1
 gTTS
+SpeechRecognition
+pydub
 gunicorn
